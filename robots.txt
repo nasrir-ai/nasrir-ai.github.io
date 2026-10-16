@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cours.html
+
+Sitemap: https://nasrir-ai.github.io/sitemap.xml
